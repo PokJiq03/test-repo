@@ -13,7 +13,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/yuno74/TorrentLeechX?color=white&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/yuno74/TorrentLeechX?color=blue&style=for-the-badge)
 
-<p align="center"> <a href="https://t.me/arata74" target="_blank"> <img src="https://shields.io/badge/Contact_Me_Now-navy?logo=&style=for-the-badge" alt="Contact me" width="400" height="45"/>
+<p align="center"> <a href="https://t.me/mhaziqqqqq" target="_blank"> <img src="https://shields.io/badge/Contact_Me_Now-navy?logo=&style=for-the-badge" alt="Contact me" width="400" height="45"/>
 
 ---
 
